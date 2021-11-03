@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.discordapp.net/attachments/885601864605921280/904871247660343356/213493.gif
+<p align="center"><img src="https://media.discordapp.net/attachments/885601864605921280/904871247660343356/213493.gif>
 
    Hi, I’m @SukuraWeb
 
