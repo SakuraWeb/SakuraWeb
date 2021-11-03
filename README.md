@@ -6,5 +6,5 @@
 
    I’m interested in the sex
    
-<p align="center"><img src="https://media.discordapp.net/attachments/885601864605921280/905593458239107082/15d21c0b21306479545952571089.gif>
+<img src="https://media.discordapp.net/attachments/885601864605921280/905593458239107082/15d21c0b21306479545952571089.gif" style="max-width: 100%;">
 
