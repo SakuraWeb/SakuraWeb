@@ -2,7 +2,7 @@
    
    Hi, I’m @SukuraWeb
 
-   Si tu veux devenir un homme,commence par respecter tes parents 🐝
+   👺 Au cours de votre vie,n’arrêtez jamais de rêver.Personne ne peut vous enlever vos rêves.👺
 
    I work on debian
    
