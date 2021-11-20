@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/885601864605921280/904871247660343356/213493.gif" style="max-width: 100%;">
+<img src="https://media.discordapp.net/attachments/903363670510284860/911632968173387796/2be1d935521e26ea712930693a88cce5.gif" style="max-width: 100%;">
    
    Hi, I’m @SukuraWeb
 
@@ -6,5 +6,5 @@
 
    I work on debian
    
-<img src="https://media.discordapp.net/attachments/885601864605921280/905593458239107082/15d21c0b21306479545952571089.gif" style="max-width: 100%;">
+<img src="https://media.discordapp.net/attachments/903363670510284860/911633931311403062/FickleAmusedBarbet-size_restricted.gif" style="max-width: 100%;">
 
