@@ -9,7 +9,7 @@
 > neofetch
 
 ```
-<img src="https://media.discordapp.net/attachments/913918043455905836/916655626422210570/IdealFreshHapuka-max-1mb.gif" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+<img src="https://media.discordapp.net/attachments/902941334288097280/910245745439957002/3d752e372b97b592c3abea2374bdf9be.gifa" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
 
 ```py
 
